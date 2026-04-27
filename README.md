@@ -22,4 +22,4 @@ O sistema utiliza um sensor ultrassônico simulado para medir a distância de ob
 - **Lógica de Estados:** Alternância entre modos "Safe" e "Unsafe" baseada em perímetros de segurança.
 
 ## Link para a Simulação
-[Clique aqui para ver o projeto diretamente no Tinkercad][(https://www.tinkercad.com/things/ksFeE0sgaf9-automacao-com-sensor-ultrassonico?sharecode=QiOTAEoDRZjMi9ixoWHbPVdneMrDHn57GZM-_4xWkz8)]
+[Clique aqui para ver o projeto diretamente no Tinkercad](https://www.tinkercad.com/things/ksFeE0sgaf9-automacao-com-sensor-ultrassonico?sharecode=QiOTAEoDRZjMi9ixoWHbPVdneMrDHn57GZM-_4xWkz8)
