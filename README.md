@@ -3,7 +3,7 @@
 Projeto de hardware embarcado desenvolvido em **C++/Arduino** para monitoramento de distância e controle de dispositivos de segurança, projetado e validado no ambiente **Tinkercad**.
 
 ## Visualização da Simulação
-![Captura de tela da simulação no Tinkercad](link_para_sua_imagem_aqui.png)
+![Captura de tela da simulação no Tinkercad]([link_para_sua_imagem_aqui.png](https://github.com/ClaudioCGO/automacao-seguranca-arduino/blob/main/TinkerCAD%20Hardware.png))
 
 ## Funcionalidade
 O sistema utiliza um sensor ultrassônico simulado para medir a distância de objetos.
